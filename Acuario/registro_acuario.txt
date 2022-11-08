@@ -1,0 +1,17 @@
+
+*** Acuario Aqua ***
+Fecha: 2022-10-11 10:09:28.444963
+ Nombre cliente: Abraham
+ ----Detales de la compra ---- 
+ Peces de agua dulce: 5 a $200 c/u
+ Peces de agua salada: 4 a $500 c/u
+ Total pagado: $3000
+Premio- Pez de agua dulce
+*** Acuario Aqua ***
+Fecha: 2022-10-11 10:18:19.605207
+ Nombre cliente: 5
+ ----Detales de la compra ---- 
+ Peces de agua dulce: 4 a $200 c/u
+ Peces de agua salada: 4 a $500 c/u
+ Total pagado: $2800
+Premio- Limpieza de la pecera gratis
